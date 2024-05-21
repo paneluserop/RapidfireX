@@ -1,6 +1,6 @@
 {
-  "name": "⚠️ Announcement Bot \n ",
-  "version": "Latest Version : ",
+  "name": "Announcement Bot",
+  "version": "2",
   "description": "There will be more updates For this BOT",
   "main": "index.js",
   "dependencies": {
