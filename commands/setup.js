@@ -21,8 +21,8 @@ module.exports = {
         .setColor('#0099ff') 
         .setAuthor({
           name: 'Mention Channel',
-          iconURL: 'https://media.discordapp.net/attachments/1213421081226903552/1213424821170470932/2396-warning.gif',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1300829409292587078/1348213955977416775/IMG_20250309_140846_990.jpg?ex=67cea597&is=67cd5417&hm=ffe0e5f05059d253e9404d54693f604af9282de49b3b29c12283d163c670de32&',
+          url: 'https://discord.gg/8JkTHpsz4k'
         })
         .setDescription(`Please mention a channel for announcements.\n\n**Usage : ** \`<prefix>setup #channel\``)
         .setTimestamp();
@@ -51,8 +51,8 @@ module.exports = {
         .setColor('#0099ff') 
         .setAuthor({
           name: 'Channel Sucessfully set',
-          iconURL: 'https://cdn.discordapp.com/attachments/1213421081226903552/1213424821673795594/4381-anouncements-animated.gif',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1300829409292587078/1348213956199583765/IMG_20250309_140839_880.jpg?ex=67cea597&is=67cd5417&hm=3bd3363526baf63326b6138e5b140c66579fe71706adfc8238011b0298891e85&',
+          url: 'https://discord.gg/8JkTHpsz4k'
         })
         .setDescription(`Announcement channel has been set to ${channel}`)
         .setTimestamp();
