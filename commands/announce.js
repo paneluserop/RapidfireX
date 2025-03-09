@@ -8,8 +8,8 @@ async function askQuestion(message, question, callback, skip = false) {
     .setColor('#0099ff')
     .setAuthor({
       name: 'Embed Message',
-      iconURL: 'https://cdn.discordapp.com/attachments/1213421081226903552/1213422313035407360/8218-alert.gif',
-      url: 'https://discord.gg/FUEHs7RCqz'
+      iconURL: 'https://cdn.discordapp.com/attachments/1300829409292587078/1348213956199583765/IMG_20250309_140839_880.jpg?ex=67cea597&is=67cd5417&hm=3bd3363526baf63326b6138e5b140c66579fe71706adfc8238011b0298891e85&',
+      url: 'https://discord.gg/8JkTHpsz4k'
     })
     .setDescription(question);
 
@@ -170,8 +170,8 @@ async function askQuestion(message, question, callback, skip = false) {
           const embed1 = new EmbedBuilder()
             .setAuthor({
               name: 'Confirm your Announcement',
-              iconURL: 'https://cdn.discordapp.com/attachments/1213421081226903552/1213431548846800916/5331-fingerprint-loadingicon.gif?',
-              url: 'https://discord.gg/FUEHs7RCqz'
+              iconURL: 'https://cdn.discordapp.com/attachments/1300829409292587078/1348213956199583765/IMG_20250309_140839_880.jpg?ex=67cea597&is=67cd5417&hm=3bd3363526baf63326b6138e5b140c66579fe71706adfc8238011b0298891e85&?',
+              url: 'https://discord.gg/8JkTHpsz4k'
             })
             .setColor('#FFFF00')
             .setDescription('**- Are you sure you want to send this announcement?**');
